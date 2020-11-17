@@ -6,6 +6,17 @@
     </small>
   </div>
 </footer>
+
+<!-- Fonts -->
+{% if site.extended_fonts %}
+<link href='//fonts.googleapis.com/css2?family=Lato:wght@300;900&family=Merriweather:ital,wght@0,300;0,900;1,300;1,900&amp;display=swap&amp;subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+{% else %}
+<link href='//fonts.googleapis.com/css2?family=Lato:wght@300;900&family=Merriweather:ital,wght@0,300;0,900;1,300;1,900&amp;display=swap' rel='stylesheet' type='text/css'>
+{% endif %}
+{% if site.show_social_icons or site.show_sharing_icons %}
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+{% endif %}
+
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
 <script>
