@@ -4,7 +4,7 @@ email:       giulio.carlassare@gmail.com
 author:      Giulio Carlassare
 description: "My personal blog"
 baseurl:     ""
-url:         ""
+url:         "https://carlovan.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
