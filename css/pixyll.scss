@@ -25,9 +25,13 @@
 @import 'typography';
 @import 'header';
 @import 'tables';
+{% if site.animated %}
 @import 'animations';
+{% endif %}
 @import 'footer';
+{% if site.show_social_icons %}
 @import 'social-icons';
+{% endif %}
 @import 'blockquotes';
 @import 'posts';
 @import 'media-queries';
