@@ -1,8 +1,8 @@
 # Site settings
-title:       "Carlovan's"
+title:       "Wild Bits"
 email:       giulio.carlassare@gmail.com
 author:      Giulio Carlassare
-description: "My personal blog"
+description: "A blog about programming and nature"
 baseurl:     ""
 url:         "https://carlovan.github.io"
 date_format: "%b %-d, %Y"
