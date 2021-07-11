@@ -1,5 +1,6 @@
 # Site settings
 title:       "Campfire Developer"
+logo:        /images/logo.svg
 email:       giulio.carlassare@gmail.com
 author:      Giulio Carlassare
 description: "A blog about programming and nature"
