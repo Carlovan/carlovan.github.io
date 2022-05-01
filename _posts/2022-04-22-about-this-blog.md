@@ -4,11 +4,11 @@ title: "About this blog"
 tags: about
 ---
 
-Hello eveyone!  
-I want to leverage the first ever post on this blog to detail its goals and motivations.
+Hello everyone!  
+I want to leverage the first post ever on this blog to detail its goals and motivations.
 I'm laying down the foundations for future posts.
 
-I expect them to change over time, to reflect my personal interests and priorities.
+I expect them to change over time, to reflect my interests and priorities.
 
 ## Become a better writer
 Primarily, this blog is going to be an excuse to write more. I want to improve my style, broaden my vocabulary and get used to writing.
@@ -17,17 +17,17 @@ On the one hand, it allows me to communicate with others more effectively in bot
 It's not just about the **content** of my documents, e-mails, chat messages, etc; the **style** I use plays a big role in others' perception of me and what I'm communicating.  
 On the other hand, writing forces me to choose the right words and form meaningful sentences to express my thoughts precisely.
 I have to reflect to deeply **understand** them, thus increasing awareness and thinking clearer.
-All of this is likely what makes writing difficult -- it requires to bring order to the natural chaos of thoughts, which takes effort and time.
+All of this is likely what makes writing difficult -- it requires bringing order to the natural chaos of thoughts, which takes effort and time.
 
 ## Experiment with software tools
 As a developer, I love to learn new tools and experiment with them.
-In this case I am working mainly with Jekyll and Jenkins, but also other secondary things to self host this blog.
+In this case, I am working mainly with Jekyll and Jenkins, but also other secondary things to self-host this blog.
 I am pretty sure this experience will come in handy at some point, but regardless it will be a lot of fun.
 
 ## Have a personal journal
-I plan to publish articles about what I am passionate about, what I learn, my opinions, my experiments.
+I plan to publish articles about what I am passionate about, what I learn, my opinions, and my experiments.
 I am interested to see how all these things change and evolve over time.
-It will also become a repository for what I do, to be able to reuse the knowledge I have now, in the future.
+It will also become a repository for what I do, to be able to reuse, in the future, the knowledge I have now.
 
 ## So... Why is this a blog? :thinking:
 I know, why isn't this "blog" private?
